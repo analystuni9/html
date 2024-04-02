@@ -1,4 +1,4 @@
-<!-- Então eu vou falar um pouquinho de história e já vou começar mostrando simplesmente essa data em 1982, A internet não nasceu realmente nesse ano, 1982. Na verdade ela começou um pouco antes, próximo ao começo da Guerra Fria, mas isso é outra questão. Mas por que essa data de 1982 é importante para a gente? Porque foi mais ou menos nesse ano que a internet começou a ser usada para distribuição de artigos acadêmicos. Ou seja, algumas universidades nos Estados Unidos utilizaram e começaram a utilizar a rede mundial de computadores para fazer o compartilhamento de conhecimento acadêmico.
+Então eu vou falar um pouquinho de história e já vou começar mostrando simplesmente essa data em 1982, A internet não nasceu realmente nesse ano, 1982. Na verdade ela começou um pouco antes, próximo ao começo da Guerra Fria, mas isso é outra questão. Mas por que essa data de 1982 é importante para a gente? Porque foi mais ou menos nesse ano que a internet começou a ser usada para distribuição de artigos acadêmicos. Ou seja, algumas universidades nos Estados Unidos utilizaram e começaram a utilizar a rede mundial de computadores para fazer o compartilhamento de conhecimento acadêmico.
 
 Esses artigos acadêmicos eram distribuídos em forma de hipertexto, ou seja, muito parecido com esta imagem que eu estou mostrando aí para vocês, aonde eu tenho um texto e a leitura desse texto. Ela não precisa ser linear. Por exemplo, como a gente lê um livro, quando a gente lê um livro, a gente lê capítulo por capítulo, página após página e por aí vai. Com o hipertexto, a gente pode direcionar a nossa leitura de acordo com os assuntos que são de nosso interesse. Não precisa ser uma leitura linear, esse basicamente é o conceito de hipertexto.
 
@@ -22,4 +22,4 @@ Isso facilitou muito a nossa vida e um dos padrões foi não utilizar mais tabel
 
 
 
- -->
+

@@ -1,0 +1,34 @@
+Estrutura de Semântica Básica
+Para começar um arquivo HTML, precisamos das tags de abertura e fechamento <html>
+
+As metatags são informações ocultas para o usuário, mas que se comunicam com o agente de usuário
+
+Links externos como CSS e JS ficam dentro da tag <head>
+
+O atributo lang indica para o agente de usuário ou motor de busca que a página está em português do Brasil
+
+Depois, precisamos das tags <head> e <body>
+Dentro da tag <head> vai o título da página, o título que aparece na aba do navegador
+
+Dentro da tag <body> temos todo o conteúdo da página. Tudo o que o usuário vai visualizar: h1, p, a, etc.
+
+O que é Doctype: É uma diretiva que indica para o agente de usuário que é um arquivo HTML
+
+charset é uma metatag que informa para o browser qual é a família de caracteres
+
+A tag <a> inclui um conteúdo clicável para o usuário.
+O usuário pode clicar no conteúdo dentro da tag
+
+A tag <link> é para fazer um vínculo do seu arquivo HTML com outro arquivo, por exemplo, um arquivo de CSS
+Repare no atributo href, que faz referência a um arquivo externo
+
+O atributo rel indica o tipo de arquivo que está sendo vinculado, como uma folha de estilo (stylesheet)
+
+A tag <img> serve para incluir uma imagem na página
+Ela possui o atributo alt, que é um texto alternativo caso a imagem não carregue corretamente
+
+Também tem o atributo src, que indica a fonte da imagem, ou seja, o caminho que o browser vai buscar para mostrar a imagem
+
+A tag <script> também tem o atributo src
+Quando estamos incluindo um arquivo CSS, usamos o atributo href
+Se precisarmos incluir um arquivo de JavaScript, usamos a tag <script> e o atributo src
